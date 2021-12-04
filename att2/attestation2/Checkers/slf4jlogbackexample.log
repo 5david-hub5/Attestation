@@ -1,0 +1,21 @@
+25.11.2021 14:55:54.948 [main] INFO   r.v.c.a.c.ConsoleInterface - Игра началась
+25.11.2021 14:55:54.978 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+25.11.2021 14:55:59.986 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:56:04.999 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+25.11.2021 14:56:15.027 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:56:20.036 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+25.11.2021 14:56:30.062 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:56:35.067 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:56:35.087 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:56:35.088 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+25.11.2021 14:56:53.396 [main] INFO   r.v.c.a.c.ConsoleInterface - Игра началась
+25.11.2021 14:56:53.423 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+25.11.2021 14:56:55.335 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:56:56.483 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+25.11.2021 14:57:02.427 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:57:03.331 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+25.11.2021 14:57:08.472 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+25.11.2021 14:57:18.540 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:57:20.358 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:57:20.359 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+25.11.2021 14:57:25.196 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство

@@ -1,0 +1,132 @@
+23.11.2021 15:00:16.548 [main] INFO   r.v.c.a.s.ConsolePainter - Can not read save file. Error: Cannot construct instance of `ru.vsu.cs.agababyan.models.Figure` (no Creators, like default constructor, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information
+ at [Source: (File); line: 4, column: 5] (through reference chain: java.lang.Object[][0]->java.lang.Object[][1])
+23.11.2021 15:07:20.217 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 15:07:20.253 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 15:07:24.251 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 15:07:26.222 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 15:07:36.449 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 15:07:37.739 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 15:07:46.821 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 15:07:48.939 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 15:07:48.960 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 15:07:48.961 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 20:50:49.484 [main] INFO   r.v.c.a.s.ConsolePainter - Can not read save file. Error: Cannot construct instance of `ru.vsu.cs.agababyan.models.Figure` (no Creators, like default constructor, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information
+ at [Source: (File); line: 1, column: 8] (through reference chain: java.lang.Object[][0]->java.lang.Object[][1])
+23.11.2021 20:59:09.167 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 20:59:09.200 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 20:59:14.551 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 20:59:15.880 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 20:59:41.896 [main] INFO   r.v.c.a.s.ConsolePainter - Can not read save file. Error: Cannot construct instance of `ru.vsu.cs.agababyan.models.Figure` (no Creators, like default constructor, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information
+ at [Source: (File); line: 1, column: 8] (through reference chain: java.lang.Object[][0]->java.lang.Object[][1])
+23.11.2021 21:57:20.765 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 21:57:20.784 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 21:57:23.946 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 21:57:25.674 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 21:57:33.130 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 21:57:48.055 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 21:57:49.772 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 21:57:56.366 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 21:57:57.882 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 21:57:57.887 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 21:57:57.888 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 21:59:32.061 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 21:59:32.077 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 21:59:35.704 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 21:59:37.186 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:01:05.501 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:01:05.653 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:01:08.628 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:01:09.816 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:03:08.018 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:03:08.127 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:03:10.477 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:03:11.519 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:06:17.861 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:06:18.012 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:06:20.549 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:06:21.845 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:07:07.816 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:07:07.981 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:07:10.096 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:07:11.152 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:40:42.710 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:40:42.730 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:40:44.611 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:40:46.245 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:41:03.324 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:41:03.334 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:48:49.270 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:48:49.287 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:48:52.662 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:48:54.087 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:48:59.340 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:49:06.336 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:49:13.950 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:49:15.933 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:49:22.801 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:49:24.944 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:49:24.945 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:49:24.945 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:54:57.898 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:54:57.906 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:54:59.972 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:55:01.282 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:55:30.388 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 22:55:30.403 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 22:55:34.478 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 22:55:36.065 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:07:08.075 [main] INFO   r.v.c.a.s.ConsolePainter - Can not read save file. Error: checker.json (Не удается найти указанный файл)
+23.11.2021 23:07:28.952 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 23:07:28.957 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:07:38.608 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 23:07:43.527 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:07:49.520 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 23:07:50.632 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:08:28.667 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 23:08:28.675 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:08:37.505 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 23:08:38.812 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:10:31.742 [main] INFO   r.v.c.a.s.ConsolePainter - Can not read save file. Error: checker.json (Не удается найти указанный файл)
+23.11.2021 23:12:32.690 [main] INFO   r.v.c.a.s.ConsolePainter - Can not read save file. Error: Cannot construct instance of `ru.vsu.cs.agababyan.models.Figure` (no Creators, like default constructor, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information
+ at [Source: (File); line: 5, column: 7] (through reference chain: ru.vsu.cs.agababyan.service.Logic["figures"]->java.lang.Object[][0]->java.lang.Object[][1])
+23.11.2021 23:14:01.288 [main] INFO   r.v.c.a.s.ConsolePainter - Can not read save file. Error: Could not resolve subtype of [simple type, class ru.vsu.cs.agababyan.models.Figure]: missing type id property '@class' (for POJO property 'figures')
+ at [Source: (File); line: 9, column: 7] (through reference chain: ru.vsu.cs.agababyan.service.Logic["figures"]->java.lang.Object[][0]->java.lang.Object[][1])
+23.11.2021 23:14:14.440 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 23:14:14.446 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:14:18.519 [main] INFO   r.v.c.a.s.ConsolePainter - Проверка на убийство
+23.11.2021 23:14:20.800 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:15:46.120 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 23:15:46.127 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:17:54.433 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 23:17:54.439 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:18:20.322 [main] INFO   r.v.c.a.s.ConsolePainter - Игра началась
+23.11.2021 23:18:20.330 [main] INFO   r.v.c.a.s.ConsolePainter - Рисование доски
+23.11.2021 23:24:50.334 [main] INFO   r.v.c.a.c.ConsoleInterface - Игра началась
+23.11.2021 23:24:50.342 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:25:19.025 [main] INFO   r.v.c.a.c.ConsoleInterface - Игра началась
+23.11.2021 23:25:19.032 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:25:26.735 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:25:28.052 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:25:42.567 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:25:44.447 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:25:59.447 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:26:00.695 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:26:00.696 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:26:00.697 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:26:14.869 [main] INFO   r.v.c.a.c.ConsoleInterface - Игра началась
+23.11.2021 23:26:14.876 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:26:45.111 [main] INFO   r.v.c.a.c.ConsoleInterface - Игра началась
+23.11.2021 23:26:45.117 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:26:50.131 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:26:55.140 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:30:21.960 [main] INFO   r.v.c.a.c.ConsoleInterface - Игра началась
+23.11.2021 23:30:21.974 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:30:26.989 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:30:32.001 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:30:42.010 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:30:47.021 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:30:57.042 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:31:02.057 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:31:02.064 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
+23.11.2021 23:31:02.065 [main] INFO   r.v.c.a.c.ConsoleInterface - Рисование доски
+23.11.2021 23:31:12.082 [main] INFO   r.v.c.a.m.SimpleFigure - Проверка на убийство
